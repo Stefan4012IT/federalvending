@@ -1,0 +1,39 @@
+@import '../utils/variables';
+@import '../utils/animations';
+
+.hero-pages {
+    position: relative;
+    width: 100vw;
+    height: 30vh;
+    background: url(../../images/federalvendingservice-hero-background.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+
+    @media only screen and (max-width: 787px) {
+        height: 100vh;
+    }
+
+    .logo-box {
+        position: absolute;
+        width: 150px;
+        transform: translate(-50%, 0%);
+        left: 50%;
+        bottom: 10px;
+        animation: logo-spining 2.5s forwards ;
+
+        @media only screen and (max-width: 787px) {
+            visibility: visible;
+            width: 250px;
+            bottom: auto;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            animation: none;
+        }
+
+        img {
+            object-fit: contain;
+            object-position: center;
+        }
+    }
+}

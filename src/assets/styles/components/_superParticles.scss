@@ -1,0 +1,69 @@
+@import '../utils/variables';
+@import '../utils/animations';
+
+.super-line-1 {
+    position: absolute;
+    width: 50%;
+    top: 30%;
+    left: 30%;
+    height: 1px;
+    box-shadow: #6BD425 10px 10px 10px;
+    transform: translate(-50%, -50%);
+    animation: super-particles-animation 1.2s 2 0s;
+    visibility: hidden;
+}
+
+.super-line-2 {
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    height: 1px;
+    box-shadow: #FA0303 10px 10px 10px;
+    transform: translate(-50%, -50%);
+    animation: super-particles-animation 1.5s 2 .2s;
+    visibility: hidden;
+}
+
+.super-line-3 {
+    position: absolute;
+    width: 50%;
+    top: 70%;
+    height: 1px;
+    box-shadow: #6BD425 10px 10px 10px;
+    transform: translate(-50%, -50%);
+    animation: super-particles-animation 1s 2 .5s;
+    visibility: hidden;
+}
+
+.super-line-4 {
+    position: absolute;
+    width: 20%;
+    top: 90%;
+    height: 1px;
+    box-shadow: #FA0303 10px 10px 10px;
+    transform: translate(-50%, -50%);
+    animation: super-particles-animation 1.4s 2 .1s;
+    visibility: hidden;
+}
+
+.super-line-5 {
+    position: absolute;
+    width: 60%;
+    top: 40%;
+    height: 1px;
+    box-shadow: #6BD425 10px 10px 10px;
+    transform: translate(-50%, -50%);
+    animation: super-particles-animation .9s 2 1.1s;
+    visibility: hidden;
+}
+
+.super-line-6 {
+    position: absolute;
+    width: 40%;
+    top: 6%;
+    height: 1px;
+    box-shadow: #FA0303 10px 10px 10px;
+    transform: translate(-50%, -50%);
+    animation: super-particles-animation 1.1s 2 .7s;
+    visibility: hidden;
+}

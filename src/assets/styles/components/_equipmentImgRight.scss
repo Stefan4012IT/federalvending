@@ -1,0 +1,61 @@
+@import '../utils/variables';
+@import '../utils/animations';
+
+.equipment-img-right {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    @media only screen and (max-width: 787px) {
+        flex-direction: column;
+        align-items: center;
+        height: 100%;
+    }
+
+    &--left-side,
+    &--right-side {
+        height: 100%;
+        width: 50%;
+
+    }
+
+    &--left-side {
+        .equipment {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            padding: 10px 0;
+        }
+
+        @media only screen and (max-width: 787px) {
+            order: 0;
+            width: 100%;
+            padding-left: 0;
+            padding-bottom: 20px;
+        }
+        
+    }
+
+    &--right-side {
+        z-index: 1;
+        padding-left: 15px;
+        background-position: 0 100%;
+
+        @media only screen and (max-width: 787px) {
+            order: 1;
+            width: 100%;
+            height: 500px;
+            padding-left: 0;
+            background-position: center;
+        }
+
+        
+
+        img {
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    }
+}
