@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.56478b9b.css",
+    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.bb1999d3.css",
     "main.js": "https://stefan4012it.github.io/federalvending/static/js/main.5a074512.js",
     "static/media/playing-jukebox.jpg": "https://stefan4012it.github.io/federalvending/static/media/playing-jukebox.53d37522883fae167ccc.jpg",
     "static/media/header_virtuo-1.png": "https://stefan4012it.github.io/federalvending/static/media/header_virtuo-1.ced1e986967b5a302164.png",
@@ -16,11 +16,11 @@
     "static/media/federalVendingLogo.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVendingLogo.29dc5b8a3b6cf4f4e9c2876c2d72d6b3.svg",
     "index.html": "https://stefan4012it.github.io/federalvending/index.html",
     "static/media/logo-fv.svg": "https://stefan4012it.github.io/federalvending/static/media/logo-fv.82423fe79519d2ab5fdab798aafeb6a0.svg",
-    "main.56478b9b.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.56478b9b.css.map",
+    "main.bb1999d3.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.bb1999d3.css.map",
     "main.5a074512.js.map": "https://stefan4012it.github.io/federalvending/static/js/main.5a074512.js.map"
   },
   "entrypoints": [
-    "static/css/main.56478b9b.css",
+    "static/css/main.bb1999d3.css",
     "static/js/main.5a074512.js"
   ]
 }
