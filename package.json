@@ -1,6 +1,6 @@
 {
   "name": "federal-vending-react",
-  "homepage": "https://stefan4012it.github.io/federalvending/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,12 +18,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "env-cmd -f .env.development react-scripts start",
+    "build": "env-cmd -f .env.production react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "env-cmd": "^10.1.0",
     "gh-pages": "^6.1.1"
   }
 }
