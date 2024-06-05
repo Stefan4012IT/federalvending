@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/federalvending/static/css/main.110057da.css",
-    "main.js": "/federalvending/static/js/main.74619b45.js",
-    "static/media/playing-jukebox.jpg": "/federalvending/static/media/playing-jukebox.53d37522883fae167ccc.jpg",
-    "static/media/header_virtuo-1.png": "/federalvending/static/media/header_virtuo-1.ced1e986967b5a302164.png",
-    "static/media/evoke-snack.png": "/federalvending/static/media/evoke-snack.7003c890d3fd06827ade.png",
-    "static/media/federalVending-hero-left-1.svg": "/federalvending/static/media/federalVending-hero-left-1.afc3c38f1d571e680078.svg",
-    "static/media/federalVending-hero-right-1.svg": "/federalvending/static/media/federalVending-hero-right-1.f88a300bca1d9fe75bd8.svg",
-    "static/media/federalvendingservice-hero-background.jpg": "/federalvending/static/media/federalvendingservice-hero-background.6e2ff0b5dab058b5dcd1.jpg",
-    "static/media/billiard.jpg": "/federalvending/static/media/billiard.8a3f4c27c062572d1698.jpg",
-    "static/media/pinball-vending-machine.jpg": "/federalvending/static/media/pinball-vending-machine.9f07061cc36e4006c15f.jpg",
-    "static/media/arcade-vanding-games-1.jpg": "/federalvending/static/media/arcade-vanding-games-1.b299179d75a28b7e9436.jpg",
-    "static/media/drive_arcade_game.jpg": "/federalvending/static/media/drive_arcade_game.137d34f757237dbd1bda.jpg",
-    "static/media/billiard_ball.jpg": "/federalvending/static/media/billiard_ball.e0b085b1fd160da7fa8b.jpg",
-    "static/media/federalVendingLogo.svg": "/federalvending/static/media/federalVendingLogo.29dc5b8a3b6cf4f4e9c2876c2d72d6b3.svg",
-    "static/media/logo-fv.svg": "/federalvending/static/media/logo-fv.82423fe79519d2ab5fdab798aafeb6a0.svg",
-    "index.html": "/federalvending/index.html",
-    "main.110057da.css.map": "/federalvending/static/css/main.110057da.css.map",
-    "main.74619b45.js.map": "/federalvending/static/js/main.74619b45.js.map"
+    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.c22d3aa6.css",
+    "main.js": "https://stefan4012it.github.io/federalvending/static/js/main.5a074512.js",
+    "static/media/playing-jukebox.jpg": "https://stefan4012it.github.io/federalvending/static/media/playing-jukebox.53d37522883fae167ccc.jpg",
+    "static/media/header_virtuo-1.png": "https://stefan4012it.github.io/federalvending/static/media/header_virtuo-1.ced1e986967b5a302164.png",
+    "static/media/evoke-snack.png": "https://stefan4012it.github.io/federalvending/static/media/evoke-snack.7003c890d3fd06827ade.png",
+    "static/media/federalVending-hero-left-1.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVending-hero-left-1.afc3c38f1d571e680078.svg",
+    "static/media/federalVending-hero-right-1.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVending-hero-right-1.f88a300bca1d9fe75bd8.svg",
+    "static/media/federalvendingservice-hero-background.jpg": "https://stefan4012it.github.io/federalvending/static/media/federalvendingservice-hero-background.6e2ff0b5dab058b5dcd1.jpg",
+    "static/media/billiard.jpg": "https://stefan4012it.github.io/federalvending/static/media/billiard.8a3f4c27c062572d1698.jpg",
+    "static/media/pinball-vending-machine.jpg": "https://stefan4012it.github.io/federalvending/static/media/pinball-vending-machine.9f07061cc36e4006c15f.jpg",
+    "static/media/arcade-vanding-games-1.jpg": "https://stefan4012it.github.io/federalvending/static/media/arcade-vanding-games-1.b299179d75a28b7e9436.jpg",
+    "static/media/drive_arcade_game.jpg": "https://stefan4012it.github.io/federalvending/static/media/drive_arcade_game.137d34f757237dbd1bda.jpg",
+    "static/media/billiard_ball.jpg": "https://stefan4012it.github.io/federalvending/static/media/billiard_ball.e0b085b1fd160da7fa8b.jpg",
+    "static/media/federalVendingLogo.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVendingLogo.29dc5b8a3b6cf4f4e9c2876c2d72d6b3.svg",
+    "index.html": "https://stefan4012it.github.io/federalvending/index.html",
+    "static/media/logo-fv.svg": "https://stefan4012it.github.io/federalvending/static/media/logo-fv.82423fe79519d2ab5fdab798aafeb6a0.svg",
+    "main.c22d3aa6.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.c22d3aa6.css.map",
+    "main.5a074512.js.map": "https://stefan4012it.github.io/federalvending/static/js/main.5a074512.js.map"
   },
   "entrypoints": [
-    "static/css/main.110057da.css",
-    "static/js/main.74619b45.js"
+    "static/css/main.c22d3aa6.css",
+    "static/js/main.5a074512.js"
   ]
 }
