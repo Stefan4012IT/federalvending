@@ -9,7 +9,7 @@ const DesktopNav = () => {
     return (
         <div className="navbar">
             <div className="navbar-links">
-                <NavLink to="/" className="nav-link"><span>Home</span></NavLink>
+                <NavLink to="/federalvending" className="nav-link"><span>Home</span></NavLink>
                 <NavLink to="/entertainment-vending" className="nav-link"><span>Entertainment Vending</span></NavLink>
                 <NavLink to="/food-service" className="nav-link"><span>Food Service</span></NavLink>
                 <NavLink to="/about-us" className="nav-link"><span>About Us</span></NavLink>
