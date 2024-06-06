@@ -7,7 +7,7 @@ import SectionImgLeft from '../components/Elements/SectionImgLeft';
 import img_1 from '../assets/images/snack-vending-machine.jpg';
 import img_2 from '../assets/images/refreshing-drinks.jpg';
 // import img_3 from '../assets/images/food-and-beverage-solutions.jpg';
-import img_3 from '../assets/images/comprehensive-food-and-beverage-solutions.jpg';
+import img_3 from '../assets/images/comprehensive-food-and-beverage-solutions-1.jpg';
 import img_4 from '../assets/images/energize-your-workforce-with-vending-machines.jpg';
 import SectionImgBottom from '../components/Elements/SectionImgBottom';
 import Footer from '../components/Elements/Footer';
