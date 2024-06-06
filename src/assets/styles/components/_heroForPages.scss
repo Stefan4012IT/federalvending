@@ -10,6 +10,10 @@
     background-position: center;
     z-index: 0;
 
+    @media only screen and (max-width:1600px) {
+        height: 40vh;
+    }
+
     @media only screen and (max-width: 787px) {
         height: 30vh;
     }
@@ -21,6 +25,10 @@
         left: 50%;
         bottom: 10px;
         animation: logo-spining 2.5s forwards ;
+
+        @media only screen and (max-width:1600px) {
+            width: 100px;
+        }
 
         @media only screen and (max-width: 787px) {
             visibility: visible;
