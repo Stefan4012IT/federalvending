@@ -31,6 +31,10 @@
         transform: translate(-50%, -50%);
         animation: logo-rotate 1s forwards 1.5s;
 
+        @media only screen and (max-width: 1600px) {
+            width: 350px;
+        }
+
         @media only screen and (max-width: 787px) {
             width: 250px;
         }
