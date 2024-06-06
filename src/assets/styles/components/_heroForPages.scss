@@ -11,7 +11,7 @@
     z-index: 0;
 
     @media only screen and (max-width: 787px) {
-        height: 100vh;
+        height: 30vh;
     }
 
     .logo-box {
@@ -24,7 +24,7 @@
 
         @media only screen and (max-width: 787px) {
             visibility: visible;
-            width: 250px;
+            width: 100px;
             bottom: auto;
             top: 50%;
             transform: translate(-50%, -50%);
