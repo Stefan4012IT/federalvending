@@ -25,6 +25,21 @@
     }
 }
 
+@keyframes logo-spining-mobile {
+    0% {
+        transform: translate(-50%, -50%) rotateY(0deg);
+    }
+    20% {
+        transform: translate(-50%, -50%) rotateY(360deg);
+    }
+    40% {
+        transform: translate(-50%, -50%) rotateY(0deg);
+    }
+    100% {
+        transform: translate(-50%, -50%) rotateY(360deg);
+    }
+}
+
 @keyframes hover-border-slide {
     0% {
         width: 0;

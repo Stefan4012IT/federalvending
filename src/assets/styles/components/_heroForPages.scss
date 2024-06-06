@@ -14,6 +14,10 @@
         height: 40vh;
     }
 
+    .full-screen {
+        height: 100vh;
+    }
+
     @media only screen and (max-width: 787px) {
         height: 30vh;
     }
@@ -24,19 +28,18 @@
         transform: translate(-50%, 0%);
         left: 50%;
         bottom: 10px;
-        animation: logo-spining 2.5s forwards ;
+        animation: logo-spining 2.5s forwards;
 
         @media only screen and (max-width:1600px) {
             width: 150px;
         }
 
+
         @media only screen and (max-width: 787px) {
             visibility: visible;
             width: 100px;
-            bottom: auto;
-            top: 50%;
-            transform: translate(-50%, -50%);
-            animation: none;
+            bottom: 10px;
+            animation: logo-spining 2.5s forwards;
         }
 
         img {

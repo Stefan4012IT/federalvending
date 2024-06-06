@@ -4,16 +4,23 @@ import '../../assets/styles/main.scss';
 
 const MobileNav = () => {
     const [isNavVisible, setIsNavVisible] = useState(false);
-
     const toggleNav = () => {
         setIsNavVisible(prevState => !prevState);
     };
 
     useEffect(() => {
+        const heroPages = document.querySelector('.hero-pages');
         if (isNavVisible) {
             document.body.classList.add('no-scroll');
+            if (heroPages) {
+                heroPages.style.height = '100vh';
+            }
         } else {
             document.body.classList.remove('no-scroll');
+            if (heroPages) {
+                heroPages.style.height = '30vh';
+                heroPages.style.transition = '1s';
+            }
         }
     }, [isNavVisible]);
 
