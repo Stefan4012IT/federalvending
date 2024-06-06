@@ -6,6 +6,10 @@
     background-color: $background-color;
     margin: 150px auto;
 
+    @media only screen and (max-width: 787px) {
+        margin: 100px auto;
+    }
+
     .section-img-right {
         height: auto;
         display: flex;
@@ -51,6 +55,10 @@
     position: relative;
     background-color: $background-color;
     margin: 150px auto;
+
+    @media only screen and (max-width: 787px) {
+        margin: 100px auto;
+    }
 
     .section-img-left {
         height: auto;
@@ -99,11 +107,15 @@
     background-color: $background-color;
     margin: 150px auto;
 
+    @media only screen and (max-width: 787px) {
+        margin: 100px auto;
+    }
+
     .equipment-img-right--left-side {
         padding-right: 15px ;
 
         h5 {
-            font-weight: 800;
+            font-weight: 800 !important;
         }
     }
 

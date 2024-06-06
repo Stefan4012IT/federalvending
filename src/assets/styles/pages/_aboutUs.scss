@@ -1,0 +1,39 @@
+@import '../utils/variables';
+@import '../utils/animations';
+
+.about-us {
+
+    &--section-1, &--section-2 {
+        position: relative;
+        background-color: $background-color;
+        margin: 150px auto;
+        display: flex;
+        flex-direction: column;
+
+        @media only screen and (max-width: 787px) {
+            margin: 100px auto;
+        }
+    }
+
+    &--section-3, &--section-4 {
+        position: relative;
+        background-color: $background-color;
+        margin: 150px auto;
+        display: flex;
+        flex-direction: column;
+
+        @media only screen and (max-width: 787px) {
+            margin: 100px auto;
+        }
+
+        .equipment {
+            padding: 10px 0;
+
+            h5 {
+                font-weight: 800 !important;
+            }
+        }
+
+    }
+
+}

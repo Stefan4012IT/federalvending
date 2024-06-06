@@ -4,6 +4,9 @@ import Home from './pages/Home'
 import './assets/styles/main.scss';
 import EntertainmentVending from './pages/EntertainmentVending';
 import FoodService from './pages/FoodService';
+import AboutUs from './pages/AboutUs';
+import Rentals from './pages/Rentals';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/entertainment-vending" element={<EntertainmentVending />} />
         <Route path="/food-service" element={<FoodService />} />
+        <Route path="/about-us" element={<AboutUs />} />
+        <Route path="/rentals" element={<Rentals />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </Router>
   );

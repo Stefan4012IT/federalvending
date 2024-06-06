@@ -1,0 +1,56 @@
+@import '../utils/variables';
+@import '../utils/animations';
+
+.rentals {
+    &--section-1 {
+        position: relative;
+        background-color: $background-color;
+        margin: 150px auto;
+
+        position: relative;
+        background-color: $background-color;
+        margin: 150px auto;
+
+    @media only screen and (max-width: 787px) {
+        margin: 100px auto;
+    }
+
+    .section-img-right--right-side {
+        img {
+            height: auto;
+            width: 100%;
+            object-fit: cover;
+            object-position: top;
+
+            @media only screen and (max-width: 1600px) {
+                height: 500px;
+            }
+
+            @media only screen and (max-width: 787px) {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+    }
+
+    &--section-2 {
+        position: relative;
+        background-color: $background-color;
+        margin: 150px auto;
+        display: flex;
+        flex-direction: column;
+
+        @media only screen and (max-width: 787px) {
+            margin: 100px auto;
+        }
+
+        .equipment {
+            padding: 10px 0;
+
+            h5 {
+                font-weight: 800 !important;
+            }
+        }
+    }
+}
