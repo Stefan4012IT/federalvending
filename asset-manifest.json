@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.bb1999d3.css",
-    "main.js": "https://stefan4012it.github.io/federalvending/static/js/main.5a074512.js",
+    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.4ff22487.css",
+    "main.js": "https://stefan4012it.github.io/federalvending/static/js/main.f6394339.js",
     "static/media/playing-jukebox.jpg": "https://stefan4012it.github.io/federalvending/static/media/playing-jukebox.53d37522883fae167ccc.jpg",
     "static/media/header_virtuo-1.png": "https://stefan4012it.github.io/federalvending/static/media/header_virtuo-1.ced1e986967b5a302164.png",
     "static/media/evoke-snack.png": "https://stefan4012it.github.io/federalvending/static/media/evoke-snack.7003c890d3fd06827ade.png",
+    "static/media/refreshing-drinks.jpg": "https://stefan4012it.github.io/federalvending/static/media/refreshing-drinks.d4f47c400eb506bbd0e8.jpg",
     "static/media/federalVending-hero-left-1.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVending-hero-left-1.afc3c38f1d571e680078.svg",
     "static/media/federalVending-hero-right-1.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVending-hero-right-1.f88a300bca1d9fe75bd8.svg",
     "static/media/federalvendingservice-hero-background.jpg": "https://stefan4012it.github.io/federalvending/static/media/federalvendingservice-hero-background.6e2ff0b5dab058b5dcd1.jpg",
+    "static/media/energize-your-workforce-with-vending-machines.jpg": "https://stefan4012it.github.io/federalvending/static/media/energize-your-workforce-with-vending-machines.2d777cbda3490466406c.jpg",
     "static/media/billiard.jpg": "https://stefan4012it.github.io/federalvending/static/media/billiard.8a3f4c27c062572d1698.jpg",
     "static/media/pinball-vending-machine.jpg": "https://stefan4012it.github.io/federalvending/static/media/pinball-vending-machine.9f07061cc36e4006c15f.jpg",
+    "static/media/snack-vending-machine.jpg": "https://stefan4012it.github.io/federalvending/static/media/snack-vending-machine.276b684c19edd0de28c0.jpg",
     "static/media/arcade-vanding-games-1.jpg": "https://stefan4012it.github.io/federalvending/static/media/arcade-vanding-games-1.b299179d75a28b7e9436.jpg",
     "static/media/drive_arcade_game.jpg": "https://stefan4012it.github.io/federalvending/static/media/drive_arcade_game.137d34f757237dbd1bda.jpg",
     "static/media/billiard_ball.jpg": "https://stefan4012it.github.io/federalvending/static/media/billiard_ball.e0b085b1fd160da7fa8b.jpg",
+    "static/media/comprehensive-food-and-beverage-solutions.jpg": "https://stefan4012it.github.io/federalvending/static/media/comprehensive-food-and-beverage-solutions.2496a022f40f6d6bfb08.jpg",
     "static/media/federalVendingLogo.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVendingLogo.29dc5b8a3b6cf4f4e9c2876c2d72d6b3.svg",
     "index.html": "https://stefan4012it.github.io/federalvending/index.html",
     "static/media/logo-fv.svg": "https://stefan4012it.github.io/federalvending/static/media/logo-fv.82423fe79519d2ab5fdab798aafeb6a0.svg",
-    "main.bb1999d3.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.bb1999d3.css.map",
-    "main.5a074512.js.map": "https://stefan4012it.github.io/federalvending/static/js/main.5a074512.js.map"
+    "main.4ff22487.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.4ff22487.css.map",
+    "main.f6394339.js.map": "https://stefan4012it.github.io/federalvending/static/js/main.f6394339.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb1999d3.css",
-    "static/js/main.5a074512.js"
+    "static/css/main.4ff22487.css",
+    "static/js/main.f6394339.js"
   ]
 }
