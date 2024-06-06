@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.fea26feb.css",
-    "main.js": "https://stefan4012it.github.io/federalvending/static/js/main.52981779.js",
+    "main.css": "https://stefan4012it.github.io/federalvending/static/css/main.ff8a40ff.css",
+    "main.js": "https://stefan4012it.github.io/federalvending/static/js/main.08894264.js",
     "static/media/playing-jukebox.jpg": "https://stefan4012it.github.io/federalvending/static/media/playing-jukebox.53d37522883fae167ccc.jpg",
     "static/media/header_virtuo-1.png": "https://stefan4012it.github.io/federalvending/static/media/header_virtuo-1.ced1e986967b5a302164.png",
     "static/media/evoke-snack.png": "https://stefan4012it.github.io/federalvending/static/media/evoke-snack.7003c890d3fd06827ade.png",
@@ -17,14 +17,15 @@
     "static/media/arcade-vanding-games-1.jpg": "https://stefan4012it.github.io/federalvending/static/media/arcade-vanding-games-1.b299179d75a28b7e9436.jpg",
     "static/media/drive_arcade_game.jpg": "https://stefan4012it.github.io/federalvending/static/media/drive_arcade_game.137d34f757237dbd1bda.jpg",
     "static/media/billiard_ball.jpg": "https://stefan4012it.github.io/federalvending/static/media/billiard_ball.e0b085b1fd160da7fa8b.jpg",
+    "static/media/memorable-events.jpg": "https://stefan4012it.github.io/federalvending/static/media/memorable-events.a9d8cfb5f8bd4a55d9e7.jpg",
     "static/media/federalVendingLogo.svg": "https://stefan4012it.github.io/federalvending/static/media/federalVendingLogo.29dc5b8a3b6cf4f4e9c2876c2d72d6b3.svg",
     "index.html": "https://stefan4012it.github.io/federalvending/index.html",
     "static/media/logo-fv.svg": "https://stefan4012it.github.io/federalvending/static/media/logo-fv.82423fe79519d2ab5fdab798aafeb6a0.svg",
-    "main.fea26feb.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.fea26feb.css.map",
-    "main.52981779.js.map": "https://stefan4012it.github.io/federalvending/static/js/main.52981779.js.map"
+    "main.ff8a40ff.css.map": "https://stefan4012it.github.io/federalvending/static/css/main.ff8a40ff.css.map",
+    "main.08894264.js.map": "https://stefan4012it.github.io/federalvending/static/js/main.08894264.js.map"
   },
   "entrypoints": [
-    "static/css/main.fea26feb.css",
-    "static/js/main.52981779.js"
+    "static/css/main.ff8a40ff.css",
+    "static/js/main.08894264.js"
   ]
 }
