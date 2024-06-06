@@ -7,8 +7,8 @@ import FoodService from './pages/FoodService';
 
 function App() {
   return (
-    <Router>
-      <Routes basename={process.env.PUBLIC_URL}>
+    <Router basename={process.env.PUBLIC_URL}>
+      <Routes>
 
         <Route path="/" element={<Home />} />
         <Route path="/entertainment-vending" element={<EntertainmentVending />} />
