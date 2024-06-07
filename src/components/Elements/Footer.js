@@ -17,7 +17,7 @@ function Footer() {
                         OFFICE: MONDAY-FRIDAY
                     </span>
                     <span>
-                        8.00AM-10PM
+                        8.00AM-10.00PM
                     </span>
                 </div>
                 <div class="address">

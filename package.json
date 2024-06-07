@@ -21,7 +21,8 @@
     "start": "env-cmd -f .env.development react-scripts start",
     "build": "env-cmd -f .env.production react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "generate-sitemap": "node sitemap-builder.js"
   },
   "eslintConfig": {
     "extends": [

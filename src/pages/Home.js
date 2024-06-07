@@ -32,7 +32,7 @@ const Home = () => {
     const section_2_title = 'FOOD SERVICE';
     const section_2_subtitle = ["Vending Services", "Vending Markets", "Coffee"];
     const section_2_btnTxt = "Find More";
-    const section_2_navLink = "/food-service";
+    const section_2_navLink = "/vending-service";
 
     const section_3_title = 'Discover Excellence in Vending Services';
     const section_3_txt = 'We offer the freshest products, knowledgeable employees, and responsive service, ensuring long-term partnerships and customized solutions for your business needs.';
