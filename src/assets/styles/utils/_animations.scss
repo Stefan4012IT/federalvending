@@ -12,31 +12,31 @@
 
 @keyframes logo-spining {
     0% {
-        transform: translate(-50%, 0%) rotateY(0deg);
+        transform: translateX(-50%) rotateY(0deg);
     }
     20% {
-        transform: translate(-50%, 0%) rotateY(360deg);
+        transform: translateX(-50%) rotateY(360deg);
     }
     40% {
-        transform: translate(-50%, 0%) rotateY(0deg);
+        transform: translateX(-50%) rotateY(0deg);
     }
     100% {
-        transform: translate(-50%, 0%) rotateY(360deg);
+        transform: translateX(-50%) rotateY(360deg);
     }
 }
 
 @keyframes logo-spining-mobile {
     0% {
-        transform: translate(-50%, -50%) rotateY(0deg);
+        transform: trtranslateX(-50%) rotateY(0deg);
     }
     20% {
-        transform: translate(-50%, -50%) rotateY(360deg);
-    }
+        transform: trtranslateX(-50%) rotateY(360deg);
+    }   
     40% {
-        transform: translate(-50%, -50%) rotateY(0deg);
+        transform: trtranslateX(-50%) rotateY(0deg);
     }
     100% {
-        transform: translate(-50%, -50%) rotateY(360deg);
+        transform: trtranslateX(-50%) rotateY(360deg);
     }
 }
 
