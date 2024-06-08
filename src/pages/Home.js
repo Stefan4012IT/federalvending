@@ -29,7 +29,7 @@ const Home = () => {
     const section_1_btnTxt = "Find More";
     const section_1_navLink = "/entertainment-vending";
 
-    const section_2_title = 'FOOD SERVICE';
+    const section_2_title = 'VENDING SERVICE';
     const section_2_subtitle = ["Vending Services", "Vending Markets", "Coffee"];
     const section_2_btnTxt = "Find More";
     const section_2_navLink = "/vending-service";
