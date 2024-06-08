@@ -18,9 +18,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "clean": "rimraf build",
     "start": "env-cmd -f .env.development react-scripts start",
     "build": "env-cmd -f .env.production react-scripts build",
-    "predeploy": "npm run build",
+    "predeploy": "npm run clean && npm run build",
     "deploy": "gh-pages -d build",
     "generate-sitemap": "node sitemap-builder.js"
   },
